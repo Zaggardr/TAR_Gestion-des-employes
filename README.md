@@ -21,6 +21,6 @@ Ce projet a pour objectif de gérer les employés d'une petite entreprise en fon
 -Modifier les requêtes dynamiques dans le code pour tester différentes opérations sur les employés.
 
 ## Vidéo:
-
+https://github.com/user-attachments/assets/741f36ca-3a26-4eef-bedc-23f7f55669dc
 ## Crédits :
 Développé par Zaggar.
